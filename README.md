@@ -1,2 +1,2 @@
-# tuitee-ui
+# tuttee-ui
 Tuitee Web UI Design
